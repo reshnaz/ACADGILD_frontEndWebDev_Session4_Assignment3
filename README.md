@@ -1,5 +1,17 @@
 # S4A3
 
+Note: "implementation.js" is the transpiled js file generated using interface.ts and implementation.ts.
+
+Assignment –
+
+A. Export an interface with the export keyword
+
+B. Export 2 functions with the export keyword
+
+C. Create another file and try to consume the interface and 2 functions with the help of
+import. In console run node and it should show the console.log output.
+
+--------------------------------------------------------------------------
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.4.
 
 ## Development server
